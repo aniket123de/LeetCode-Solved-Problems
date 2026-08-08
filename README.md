@@ -46,3 +46,11 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ---
 
 **Author:** [aniket123de](https://github.com/aniket123de)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+<!---LeetCode Topics End-->
