@@ -53,4 +53,8 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## String
+|  |
+| ------- |
+| [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
