@@ -56,5 +56,6 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
