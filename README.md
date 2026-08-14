@@ -58,4 +58,16 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | ------- |
 | [0520-detect-capital](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
