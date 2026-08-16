@@ -62,6 +62,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 ## Math
 |  |
@@ -74,5 +75,10 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
