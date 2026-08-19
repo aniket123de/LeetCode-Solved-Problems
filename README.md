@@ -61,6 +61,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -76,6 +77,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
@@ -83,4 +85,8 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
