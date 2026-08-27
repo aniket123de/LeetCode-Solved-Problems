@@ -63,6 +63,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [1773-count-items-matching-a-rule](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [1773-count-items-matching-a-rule](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
