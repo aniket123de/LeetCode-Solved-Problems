@@ -57,6 +57,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -109,4 +110,12 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
