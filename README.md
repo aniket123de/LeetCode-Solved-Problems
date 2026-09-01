@@ -60,6 +60,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1816-truncate-sentence) |
@@ -114,6 +115,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
