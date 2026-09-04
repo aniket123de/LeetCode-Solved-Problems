@@ -77,6 +77,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -118,9 +119,14 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
