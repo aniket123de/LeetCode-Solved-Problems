@@ -96,6 +96,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1360-number-of-days-between-two-dates) |
 ## Two Pointers
 |  |
