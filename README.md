@@ -81,6 +81,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -97,6 +98,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1360-number-of-days-between-two-dates) |
 ## Two Pointers
 |  |
