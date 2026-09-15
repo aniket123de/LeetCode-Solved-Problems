@@ -100,6 +100,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1360-number-of-days-between-two-dates) |
+| [1688-count-of-matches-in-tournament](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,4 +139,5 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
