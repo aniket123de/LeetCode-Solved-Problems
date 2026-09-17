@@ -89,6 +89,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [1773-count-items-matching-a-rule](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2942-find-words-containing-character) |
@@ -122,6 +123,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | ------- |
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -142,4 +144,8 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | ------- |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
