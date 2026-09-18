@@ -52,6 +52,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -78,6 +79,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
@@ -108,6 +110,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,5 +150,14 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
