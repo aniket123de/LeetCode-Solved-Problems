@@ -62,6 +62,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0520-detect-capital](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1360-number-of-days-between-two-dates) |
@@ -85,6 +86,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
+| [1002-find-common-characters](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1436-destination-city) |
@@ -122,6 +124,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
