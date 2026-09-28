@@ -87,6 +87,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1002-find-common-characters](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1436-destination-city) |
@@ -125,6 +126,7 @@ This repo is a personal practice log — solutions aren't necessarily the most o
 | [0575-distribute-candies](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aniket123de/LeetCode-Solved-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
